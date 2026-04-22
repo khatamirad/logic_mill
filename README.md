@@ -11,7 +11,7 @@ This app provides a Streamlit interface to perform similarity searches using the
 - Download results as JSON and TXT
 
 ## Files
-- `GUI_a_connected.py` – Streamlit GUI
+- `app.py` – Streamlit GUI
 - `similarity_search_json.py` – backend logic
 
 ## Installation
