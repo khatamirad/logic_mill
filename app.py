@@ -5,7 +5,7 @@ Streamlit GUI for LogicMill similarity search.
 Place this file in the same folder as similarity_search_json.py
 and run with:
 
-    streamlit run GUI_a_connected.py
+    streamlit run app.py
 """
 
 import json
